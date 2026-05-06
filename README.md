@@ -297,16 +297,6 @@ It does **not perform real attacks**.
 
 ***
 
-## 📌 Roadmap
-
-*   [ ] Auto-grader (CTFd integration)
-*   [ ] Multi-scenario generator
-*   [ ] SIEM ingestion templates
-*   [ ] MITRE ATT\&CK mapping
-*   [ ] Web-based lab platform
-
-***
-
 ## ⭐ Contributing
 
 Contributions welcome:
